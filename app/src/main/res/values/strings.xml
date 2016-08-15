@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QiitaClient</string>
+    <string name="profile_image_description">Profile Image</string>
+    <string name="search_button">検索</string>
+</resources>
